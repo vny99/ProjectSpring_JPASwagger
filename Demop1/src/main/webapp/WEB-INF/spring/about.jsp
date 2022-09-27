@@ -29,6 +29,17 @@ overflow:hidden;
 background-color:#333333;
 
 }
+table{
+border:2px solid black;
+}
+td{
+border:2px solid black;
+}
+th{
+border:2px solid black;
+text-align:left;
+
+}
 
 </style>
 
